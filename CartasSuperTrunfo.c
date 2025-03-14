@@ -2,7 +2,6 @@
 
 int main() {
     printf ("Desafio Super Trunfo");\
-    int main (){
         char Estado1, Código1[8], Nome1[50];
         int população1, Pontos_turisticos1;
         float Área1, PIB1;
