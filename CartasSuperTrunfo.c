@@ -47,6 +47,8 @@ int main (){
 
     printf ("O Pib e de: %f\n", pib2);
 
-    return 0;
+return 0;
+
+}
     
 
